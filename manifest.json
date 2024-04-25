@@ -1,0 +1,16 @@
+{
+  "name": "arabhub",
+  "short_name": "arbhub",
+  "description": "كل يوم الجديد",
+  "icons": [
+    {
+      "src": "https://www6.0zz0.com/2024/04/25/21/721704924.png",
+      "sizes": "500x500",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://arabhub.github.io/tst",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
